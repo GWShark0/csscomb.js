@@ -185,6 +185,7 @@
 		"box-decoration-break",
 		"box-shadow",
 		"text-shadow",
+		"filter",
 
 		"transition",
 		"transition-delay",
