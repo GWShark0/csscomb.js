@@ -32,11 +32,11 @@
 		"content",
 
 		"position",
+		"z-index",
 		"top",
 		"right",
 		"bottom",
 		"left",
-		"z-index",
 
 		"display",
 		"visibility",
